@@ -81,15 +81,22 @@ Busco oportunidades de **estágio ou vaga júnior em Dados e BI**, presencial, h
 | **Portfólio pessoal** *(em desenvolvimento)* | Site com projetos, experiências e contato. | `HTML` `CSS` `JavaScript` |
 | **TCC** *(em desenvolvimento)* | Estudo de caso com dados do judiciário e dashboards de indicadores. | `SQL` `Qlik Sense` |
 
-## GitHub
+## Como trabalho com dados
+
+```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#0d1117','primaryTextColor':'#c9d1d9','primaryBorderColor':'#2ea043','lineColor':'#2ea043','fontFamily':'monospace'}}}%%
+flowchart LR
+    A[(Fontes<br/>bancos, sistemas,<br/>planilhas)] --> B[Extração<br/>SQL]
+    B --> C[Tratamento<br/>validação e limpeza]
+    C --> D[Indicadores<br/>KPIs e metas]
+    D --> E[Dashboards<br/>Qlik Sense · Power BI]
+    E --> F((Decisão))
+```
+
+## Em andamento
 
 <p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=HugoHlebetz&show_icons=true&locale=pt-br&hide_border=true&bg_color=0d1117&title_color=2ea043&icon_color=2ea043&text_color=c9d1d9" alt="GitHub Stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HugoHlebetz&layout=compact&locale=pt-br&hide_border=true&bg_color=0d1117&title_color=2ea043&text_color=c9d1d9" alt="Linguagens" />
-</p>
-
-<p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HugoHlebetz&bg_color=0d1117&color=c9d1d9&line=2ea043&point=ffffff&area=true&area_color=1a7f37&hide_border=true&custom_title=Contribui%C3%A7%C3%B5es" width="100%" alt="Gráfico de contribuições" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2500&pause=1000&color=2EA043&vCenter=true&multiline=true&repeat=false&width=600&height=60&lines=%24+build+tcc+--stack+qlik-sense%2Coracle+--tema+judiciario;%24+deploy+portfolio+--status+em-breve" alt="Em andamento" />
 </p>
 
 ---
