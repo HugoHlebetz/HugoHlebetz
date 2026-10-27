@@ -15,19 +15,29 @@
 
 ---
 
-## Sobre
+<h2 align="center">Sobre</h2>
 
-Estudante do 7º período de **Sistemas de Informação** na Unilasalle-RJ (conclusão em 2027/1), com atuação em **análise de dados e indicadores**.
+<p align="center">
+  Estudante do 7º período de <b>Sistemas de Informação</b> na Unilasalle-RJ (conclusão em 2027/1),<br>
+  com atuação em <b>análise de dados e indicadores</b>.
+</p>
 
-No Tribunal de Justiça do Estado do Rio de Janeiro (TJRJ), trabalho com **SQL** e painéis de BI no **Qlik Sense** para acompanhar indicadores processuais. No Hospital Icaraí, **desenvolvo KPIs** e consolido dados operacionais que apoiam a gestão. Antes disso, atuei como desenvolvedor **web e fullstack**, o que me deu base em programação e banco de dados.
+<p align="center">
+  No Tribunal de Justiça do Estado do Rio de Janeiro (TJRJ), trabalho com <b>SQL</b> e painéis de BI no <b>Qlik Sense</b><br>
+  para acompanhar indicadores processuais. No Hospital Icaraí, <b>desenvolvo KPIs</b> e consolido dados operacionais<br>
+  que apoiam a gestão. Antes disso, atuei como desenvolvedor <b>web e fullstack</b>, o que me deu base em programação e banco de dados.
+</p>
 
-Busco oportunidades de **estágio ou vaga júnior em Dados e BI**, presencial, híbrida ou remota. Moro em Niterói, RJ.
+<p align="center">
+  Busco oportunidades de <b>estágio ou vaga júnior em Dados e BI</b>, presencial, híbrida ou remota.<br>
+  Niterói, RJ.
+</p>
 
-## Tecnologias
+<h2 align="center">Tecnologias</h2>
 
-**Dados & BI**
+<p align="center"><b>Dados &amp; BI</b></p>
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/SQL-0d1117?style=flat-square&logo=postgresql&logoColor=2ea043" />
   <img src="https://img.shields.io/badge/Power%20BI-0d1117?style=flat-square&logo=powerbi&logoColor=2ea043" />
   <img src="https://img.shields.io/badge/Qlik%20Sense-0d1117?style=flat-square&logo=qlik&logoColor=2ea043" />
@@ -36,15 +46,17 @@ Busco oportunidades de **estágio ou vaga júnior em Dados e BI**, presencial, h
   <img src="https://img.shields.io/badge/Python%20(pandas)-0d1117?style=flat-square&logo=python&logoColor=2ea043" />
 </p>
 
-**Linguagens, bancos e ferramentas**
+<p align="center"><b>Linguagens, bancos e ferramentas</b></p>
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=py,mysql,postgres,js,ts,nodejs,html,css,git,github,figma,vscode&theme=dark" alt="Skills" />
 </p>
 
-**Métodos**
+<p align="center"><b>Métodos</b></p>
 
-`Scrum` `Kanban` `BPMN` `UML` `Análise de Requisitos` `Modelagem de Processos` `Redes (IP, DHCP, TCP)`
+<p align="center">
+  <code>Scrum</code> <code>Kanban</code> <code>BPMN</code> <code>UML</code> <code>Análise de Requisitos</code> <code>Modelagem de Processos</code> <code>Redes (IP, DHCP, TCP)</code>
+</p>
 
 ## Experiência
 
