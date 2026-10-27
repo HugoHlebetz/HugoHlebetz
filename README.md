@@ -1,8 +1,9 @@
-<h1 align="center">Hugo Hlebetz</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=38&duration=2200&pause=4000&color=2EA043&center=true&vCenter=true&repeat=false&width=520&height=60&lines=Hugo+Hlebetz" alt="Hugo Hlebetz" />
+</p>
 
 <p align="center">
-  <b>Dados &amp; Business Intelligence</b><br>
-  <code>SQL</code> · <code>Power BI</code> · <code>Qlik Sense</code> · <code>Python</code> · <code>KPIs</code>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=1200&color=C9D1D9&center=true&vCenter=true&width=620&height=40&lines=%3E+Dados+%26+Business+Intelligence;%3E+SQL+%C2%B7+Power+BI+%C2%B7+Qlik+Sense+%C2%B7+Python;%3E+Desenvolvendo+KPIs+e+dashboards;%3E+Transformando+dados+em+decis%C3%B5es;%3E+Aberto+a+novas+oportunidades_" alt="Dados e BI" />
 </p>
 
 <p align="center">
@@ -18,7 +19,7 @@
 
 Estudante do 7º período de **Sistemas de Informação** na Unilasalle-RJ (conclusão em 2027/1), com atuação em **análise de dados e indicadores**.
 
-No setor público, trabalho com **SQL** e painéis de BI no **Qlik Sense** para acompanhar indicadores processuais. Na área hospitalar, **desenvolvo KPIs** e consolido dados operacionais que apoiam a gestão. Antes disso, atuei como desenvolvedor **web e fullstack**, o que me deu base em programação e banco de dados.
+No Tribunal de Justiça do Estado do Rio de Janeiro (TJRJ), trabalho com **SQL** e painéis de BI no **Qlik Sense** para acompanhar indicadores processuais. No Hospital Icaraí, **desenvolvo KPIs** e consolido dados operacionais que apoiam a gestão. Antes disso, atuei como desenvolvedor **web e fullstack**, o que me deu base em programação e banco de dados.
 
 Busco oportunidades de **estágio ou vaga júnior em Dados e BI**, presencial, híbrida ou remota. Moro em Niterói, RJ.
 
@@ -87,7 +88,15 @@ Busco oportunidades de **estágio ou vaga júnior em Dados e BI**, presencial, h
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HugoHlebetz&layout=compact&locale=pt-br&hide_border=true&bg_color=0d1117&title_color=2ea043&text_color=c9d1d9" alt="Linguagens" />
 </p>
 
+<p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HugoHlebetz&bg_color=0d1117&color=c9d1d9&line=2ea043&point=ffffff&area=true&area_color=1a7f37&hide_border=true&custom_title=Contribui%C3%A7%C3%B5es" width="100%" alt="Gráfico de contribuições" />
+</p>
+
 ---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1500&color=2EA043&center=true&vCenter=true&width=520&height=30&lines=%24+git+commit+-m+%22vamos+conversar%3F%22;%24+git+push+origin+oportunidades" alt="Vamos conversar" />
+</p>
 
 <p align="center">
   <sub>Contato: <a href="https://www.linkedin.com/in/hugo-hlebetz-38a3881a9/">LinkedIn</a> · <a href="mailto:hugo.goncalves@soulasalle.com.br">hugo.goncalves@soulasalle.com.br</a></sub>
