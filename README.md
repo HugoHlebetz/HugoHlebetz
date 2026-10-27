@@ -92,6 +92,15 @@ flowchart LR
     D --> E((Dados<br/>& BI))
 ```
 
+## Cursos em andamento
+
+| Curso | Instituição | Foco |
+|---|---|---|
+| **Python para Análise de Dados** | ENAJU · CNJ | Python aplicado à análise de dados |
+| **Anotação de Dados para Modelos de Inteligência Artificial no Judiciário** (2026/1) | ENAJU · CNJ | Preparação e rotulagem de dados para IA |
+| **Banco de Dados SQLite** | Origamid | SQL: modelagem, `CREATE TABLE`, `INSERT`, `SELECT` |
+| **JavaScript Completo ES6** · **TypeScript para Iniciantes** · **Back End Node.js** | Origamid | Base de programação, tipagem e APIs |
+
 ## Em andamento
 
 <p>
