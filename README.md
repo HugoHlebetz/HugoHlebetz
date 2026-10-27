@@ -14,20 +14,15 @@
 
 ---
 
-```yaml
-nome: Hugo Hlebetz
-local: Niterói, RJ · Brasil
-foco: Análise de Dados, BI e Indicadores (KPIs)
-formacao: Sistemas de Informação · Unilasalle-RJ · 7º período (conclusão 2027/1)
-hoje:
-  - Dados e análise de indicadores no setor público (SQL + Qlik Sense)
-  - Desenvolvimento de KPIs e consolidação de dados operacionais na área hospitalar
-base: Desenvolvimento web e fullstack (JavaScript, Node.js, TypeScript, Python, PostgreSQL)
-interesse: Estágio ou vaga júnior em Dados / BI · presencial, híbrido ou remoto
-idiomas: [Português (nativo), Inglês (B1 · Cambridge)]
-```
+## Sobre
 
-## Stack
+Estudante do 7º período de **Sistemas de Informação** na Unilasalle-RJ (conclusão em 2027/1), com atuação em **análise de dados e indicadores**.
+
+No setor público, trabalho com **SQL** e painéis de BI no **Qlik Sense** para acompanhar indicadores processuais. Na área hospitalar, **desenvolvo KPIs** e consolido dados operacionais que apoiam a gestão. Antes disso, atuei como desenvolvedor **web e fullstack**, o que me deu base em programação e banco de dados.
+
+Busco oportunidades de **estágio ou vaga júnior em Dados e BI**, presencial, híbrida ou remota. Moro em Niterói, RJ.
+
+## Tecnologias
 
 **Dados & BI**
 
