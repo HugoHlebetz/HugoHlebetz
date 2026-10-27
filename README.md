@@ -81,16 +81,15 @@ Busco oportunidades de **estágio ou vaga júnior em Dados e BI**, presencial, h
 | **Portfólio pessoal** *(em desenvolvimento)* | Site com projetos, experiências e contato. | `HTML` `CSS` `JavaScript` |
 | **TCC** *(em desenvolvimento)* | Estudo de caso com dados do judiciário e dashboards de indicadores. | `SQL` `Qlik Sense` |
 
-## Como trabalho com dados
+## Trajetória
 
 ```mermaid
 %%{init: {'theme':'base','themeVariables':{'primaryColor':'#0d1117','primaryTextColor':'#c9d1d9','primaryBorderColor':'#2ea043','lineColor':'#2ea043','fontFamily':'monospace'}}}%%
 flowchart LR
-    A[(Fontes<br/>bancos, sistemas,<br/>planilhas)] --> B[Extração<br/>SQL]
-    B --> C[Tratamento<br/>validação e limpeza]
-    C --> D[Indicadores<br/>KPIs e metas]
-    D --> E[Dashboards<br/>Qlik Sense · Power BI]
-    E --> F((Decisão))
+    A[2022<br/>Dev Web<br/>WordPress · JS] --> B[2024<br/>Dev Fullstack<br/>Node · PostgreSQL]
+    B --> C[2025<br/>PCP<br/>planilhas · KPIs]
+    C --> D[2026<br/>Dados & Indicadores<br/>SQL · Qlik Sense]
+    D --> E((Dados<br/>& BI))
 ```
 
 ## Em andamento
